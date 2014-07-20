@@ -4,6 +4,9 @@
   "dependencies": {
     "jquery": "*"
   },
+  "main": [
+    "jquery.smartresize.js"
+  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/peschee/jquery-smartresize.git"
